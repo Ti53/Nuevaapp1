@@ -1,8 +1,7 @@
 <resources>
-
-    <string name="app_name">Nuevaapp1</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="app_name">Mi Primera App</string>
+    <string name="edit_message">Entre un mensaje</string>
+    <string name="button_send">Enviar</string>
+    <string name="menu_settings">Opciones</string>
     <string name="title_activity_main">MainActivity</string>
-
 </resources>
